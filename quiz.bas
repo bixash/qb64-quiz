@@ -685,7 +685,7 @@ Sub about
     Print
     Print "         Created by:"
 
-    Print "           Adhishree Pyakuyrel"
+    Print "           Adhishree Pyakurel"
     Print "           Denisha Khatri"
     Print "           Manjeeta Sapkota "
 
