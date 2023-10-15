@@ -1,5 +1,6 @@
 Rem Quiz Program in QBASIC
 
+Rem ----- Created October 11 2023-----
 start:
 Dim user$
 Dim Shared CorrectAnswers
@@ -610,6 +611,7 @@ If CorrectAnswers < 5 then
     Print " Sorry, you didn't win the prize!"
 else 
     print "Congratulations, you have won the prize!"
+End If
 continue
 outro
 Input "Press y to restart the game?", response$
@@ -685,14 +687,14 @@ Sub about
     Print
     Print "         Created by:"
 
-    Print "           Adhishree Pyakurel"
+    Print "           Adhishree Pyakurel (Don of Panga)"
     Print "           Denisha Khatri"
     Print "           Manjeeta Sapkota "
 
     Print
 
     Print "         Supervised by:"
-    Print "            Bikash Shrestha"
+    Print "            Bikash Shrestha (Don of Kathmandu)"
     Print
     Print "############################################"
     Beep
