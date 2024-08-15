@@ -1,5 +1,5 @@
 # qb64-quiz
-### "Panga Innovates" Exhibition, 2080 | Oct 12th 2023
+# Panga Innovates Exhibition, 2080 | Oct 12th 2023
 ### Created by: 
 Adhishree Pyakurel  
 Denisha Khatri  
