@@ -1,11 +1,5 @@
 # qb64-quiz
 # Panga Innovates Exhibition, 2080 | Oct 12th 2023
-### Created by: 
-Adhishree Pyakurel  
-Denisha Khatri  
-Manjeeta Sapkota  
-### Supervised by:
-Bikash Shrestha (Bixash)  
 
 ### About
 This quiz have three modes of gameplay:  
@@ -20,6 +14,12 @@ This is program uses basic qbasic control statements which are taught in Grade 8
 It inlcudes IF..ELSE, Goto, Subroutines also extra functions like SLEEP, BEEP, COLOR to gamify.  
 
 
+### Created by: 
+Adhishree Pyakurel  
+Denisha Khatri  
+Manjeeta Sapkota  
+### Supervised by:
+Bikash Shrestha
 
 
 
