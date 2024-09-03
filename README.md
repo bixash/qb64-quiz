@@ -10,7 +10,7 @@ This quiz have three modes of gameplay:
 
 
 ## Description
-This is program uses basic qbasic control statements which are taught in Grade 8 & 9.  
+This is program uses basic qbasic control statements which are taught in Grade 8.  
 It inlcudes IF..ELSE, Goto, Subroutines also extra functions like SLEEP, BEEP, COLOR to gamify.  
 
 
